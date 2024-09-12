@@ -30,11 +30,11 @@ figure 12 and 13:included following folders and files
                                 outflow_T100MF.pdf:a plot of sediment outflux for modell case of 1000-YRP flood after construction of emabnkment with sediment.
 				outflow_T100MF.xlsx: classification of sediment grain size distribution of model output for 1000-YRP flood with sediment and embankment. 
 
-	3. after_embk_T25_avg_sediment_done: this is a Jupyter notebook file to produce the plot comparing field observed and simulated sediment erosion and deposition.
+	3. after_embk_T25_avg_sediment_done: includes
 				after_embk_T25_avg_sedi.dat:model output for model case of  25-YRP flood after construction of emabnkemnt with sediment.
 				after_embk_T25_avg_sedi.xlsx: classification of sediment grain size distribution of model output for a 25-YRP flood before embankment with sediment. 
 
-        6. before_embk_T1000_avg_sediment_ds_correction_done: this is a data file with all the field observed and simulated sediment erosion and deposition.
+        6. before_embk_T1000_avg_sediment_ds_correction_done: includes
 				before_embk_T1000_avg_sedi.dat: model output for model case of a 1000-YRP flood before construction of emabnkemnt with sediment.
 				outflow_T100MF_avg_sedi.xlsx: classification of sediment grain size distribution of model output for a 1000-YRP flood before embankment with sediment. 
 
