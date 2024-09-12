@@ -1,5 +1,5 @@
 ##############################################################################
-This dataset includes field measured data, simulated results, data analysis, and Jupyter notebook code to produce figures used in a research. Impact of newly constructed embankments on river morphology and flood dynamics in Kathmandu, Nepal.
+This dataset includes field measured data, simulated results, observed and simulated result analysis, and Jupyter notebook code to produce results.
 
 The dataset included following list of files(2) and file folder(4):
 
