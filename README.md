@@ -1,9 +1,5 @@
 ##############################################################################
-This dataset includes field measured data, simulated results, data analysis, and Jupyter notebook code to produce figures used in a research is part of a PhD project.
-Research title: Impact of newly constructed embankments on river morphology and flood dynamics in Kathmandu, Nepal.
-Authors: Thapa S., Sinclair H.D., Creed M.J., Borthwick A.G.L., Watson C.S., and Muthusamy M.
-Address: University of Edinburgh, School of Geosciences, UK
-Contact email: saraswati.thapa2080@gmail.com, saraswati.thapa@ed.ac.uk
+This dataset includes field measured data, simulated results, data analysis, and Jupyter notebook code to produce figures used in a research. Impact of newly constructed embankments on river morphology and flood dynamics in Kathmandu, Nepal.
 
 The dataset included following list of files(2) and file folder(4):
 
